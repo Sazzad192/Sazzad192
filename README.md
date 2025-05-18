@@ -6,8 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad192&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad192" /> </p>
 
 - 🌱 I’m currently learning **Socket.io, Prisma, Node and Express**
+  
+- 👨‍💻 Codeforce [Click Here](https://codeforces.com/profile/Sazzad_19)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sazzad-portfolio.vercel.app/)
+- 👨‍💻 Projects [Portfolio](https://sazzad-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Next**
 
